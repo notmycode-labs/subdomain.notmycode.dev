@@ -1,7 +1,8 @@
 document.addEventListener("DOMContentLoaded", function() {
     const subdomains = [
         "notmycode.dev",
-        "subdomain.notmycode.dev"
+        "subdomain.notmycode.dev",
+        "guidelines.notmycode.dev"
     ];
 
     const subdomainList = document.getElementById('subdomain-list');
